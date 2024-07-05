@@ -1,4 +1,4 @@
-// screens/QuizScreen.js
+
 import React, { useState } from 'react';
 import { View, Text } from 'react-native';
 import Quiz from '../components/Quiz';

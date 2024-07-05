@@ -2,7 +2,6 @@ import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 
 const ProgressScreen = () => {
-  // For demo purposes, we can use static progress data
   const progressData = {
     completedLessons: 2,
     totalLessons: 2,

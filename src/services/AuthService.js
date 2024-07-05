@@ -1,4 +1,4 @@
-// src/screens/AuthScreen.js
+
 import React, { useState } from 'react';
 import { View, Text, TextInput, Button, StyleSheet } from 'react-native';
 import { signIn, signUp } from '../services/AuthService';

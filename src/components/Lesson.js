@@ -1,4 +1,4 @@
-// screens/LessonScreen.js
+
 import React, { useState } from 'react';
 import { View, Text, Button } from 'react-native';
 import Lesson from '../components/Lesson';
